@@ -1,0 +1,18 @@
+repo_name: biroka/awesome-ocr
+report_id: 570c5be1d0664b3a6d8ee285896ac0af
+repo_type: Public
+timestamp: '2023-11-09T15:14:45+00:00'
+requested_by: kba
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
